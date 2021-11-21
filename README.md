@@ -23,7 +23,7 @@
 - [You want enabling CSS selectors, not disabling ones | Silvestar Bistrović | Mar 8, 2021](https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/)
 - [A Complete Guide to Dark Mode on the Web | Adhuham Adhuham | Jul 1, 2020](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 
-### CSS in Modern JS Ecosystem
+### CSS in the Modern JS Ecosystem
 - [The Semantics of Jamstack | Mike Neumegen | Oct 25, 2021](https://css-tricks.com/the-semantics-of-jamstack/)
 - [Comparing the New Generation of Build Tools | Hugh Haworth | updated Sep 2, 2021](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [How Does Viget CSS? A look at the evolution in our CSS thinking over the past couple of years | Leo Bauza | Aug 18, 2021](https://www.viget.com/articles/how-does-viget-css/)
