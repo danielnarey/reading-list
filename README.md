@@ -4,7 +4,7 @@
 
 ### Implementing Modern Layouts
 
-- [Future-Friendly Layouts and Design System Vitals | CSS Tricks Newsletter |Nov 8, 2021](https://css-tricks.com/newsletter/276-future-friendly-layouts-and-design-system-vitals/)
+- [Future-Friendly Layouts and Design System Vitals | CSS Tricks Newsletter | Nov 8, 2021](https://css-tricks.com/newsletter/276-future-friendly-layouts-and-design-system-vitals/)
 - [Full-Bleed Layout Using CSS Grid: An elegant solution to a tricky modern layout | Josh Comeau | updated Sep 28th, 2021](https://www.joshwcomeau.com/css/full-bleed/)
 - [Less Absolute Positioning With Modern CSS | Ahmad Shadeed | Sep 10, 2021](https://ishadeed.com/article/less-absolute-positioning-modern-css/)
 - [Developer Decisions For Building Flexible Components | Michelle Barker | Sep 8, 2021](https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/)
